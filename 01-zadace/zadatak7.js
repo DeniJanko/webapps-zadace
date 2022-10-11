@@ -11,3 +11,5 @@ function number(x){
         return false;
     }
 }
+
+console.log(number(23));
