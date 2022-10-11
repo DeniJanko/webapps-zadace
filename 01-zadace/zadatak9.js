@@ -6,4 +6,4 @@ function keyPair(obj1, obj2, key){
     }
 }
 
-console.log(keyPair( {a:1,b:2,c:3}, {a:321,b:3,c:1}))
+console.log(keyPair( {a:1,b:2,c:3}, {a:321,b:3,c:1}));
